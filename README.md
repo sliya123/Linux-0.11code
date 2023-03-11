@@ -1,5 +1,11 @@
-![](https://img.shields.io/github/stars/mengchaobbbigrui/Linux-0.11code)      ![](https://img.shields.io/github/forks/mengchaobbbigrui/Linux-0.11code)      ![](https://img.shields.io/github/issues/mengchaobbbigrui/Linux-0.11code)
 ## Linux0.11
+
+**阅读之前，需要可以先看
+《Linux内核完全注释》
+《x86汇编语言-从实模式到保护模式》
+
+
+
 **“RTFSC – Read The Fucking Source Code :)!”               –Linus Benedict Torvalds**
 
 Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务器，甚至个人PC都有广泛使用，由此引无数英雄好汉相继加入学习Linux的行列，而这其中定有人想一探Linux内核的究竟。
